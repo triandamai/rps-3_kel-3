@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<records>
+    <employee>
+        <name>Hasil 1</name>
+        <surname>sub  Hasil 1</surname>
+        <salary>50000</salary>
+    </employee>
+
+    <employee>
+        <name>Hasil 2</name>
+        <surname>Sub Hasil 2</surname>
+        <salary>60000</salary>
+    </employee>
+
+    <employee>
+        <name>Hasil 3</name>
+        <surname>Sub Hasil 3</surname>
+        <salary>70000</salary>
+    </employee>
+
+</records>
